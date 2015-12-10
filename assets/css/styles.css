@@ -1,0 +1,9 @@
+.hangman {
+  margin: 0 10%;
+  border: thin solid red;
+  text-align: center; }
+
+.letter-container {
+  margin: 50px auto 20px; }
+
+/*# sourceMappingURL=styles.css.map */
